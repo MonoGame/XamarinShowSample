@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Develop.Desktop/Develop.Desktop.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/Sandbox/dellis1972/MonoGame/MonoGame.Framework/SDL/SDLGameWindow.cs">
+    <Files>
+      <File FileName="Develop.Shared/Game1.cs" Line="125" Column="39" />
+      <File FileName="../../Documents/Sandbox/dellis1972/MonoGame/MonoGame.Framework/SDL/SDLGamePlatform.cs" Line="170" Column="1" />
+      <File FileName="../../Documents/Sandbox/dellis1972/MonoGame/MonoGame.Framework/SDL/SDLGameWindow.cs" Line="237" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevelopBrighton" expanded="True">
+            <Node name="Develop.Desktop" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="Develop.Shared" expanded="True">
+              <Node name="Content" expanded="True" />
+            </Node>
+            <Node name="MonoGame.Framework.Linux" expanded="True">
+              <Node name="Graphics" expanded="True" />
+              <Node name="SDL" expanded="True">
+                <Node name="SDLGameWindow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Develop.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Develop.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0D123B1A-D3C9-41DE-A980-F5ED15B8B656" />
+</Properties>
